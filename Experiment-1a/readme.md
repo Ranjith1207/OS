@@ -7,8 +7,8 @@
 
 # program output
 
-![program output image](program_output_LE_512.png)
+![program output image](programoutput_LE_512.png)
 
 # Tested output
 
-![Tested output image](Tested_output_LE_512.png)
+![Tested output image](Testedoutput_LE_512.png)
