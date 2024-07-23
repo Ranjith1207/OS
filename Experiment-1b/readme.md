@@ -2,7 +2,7 @@
 ![Program File](SFJ_LE_512.java)
 
 # Program image
-![Program image](programcode_LE_512.png)
+![Program image](program_code_LE_512.png)
 
 # Sample Output
 
